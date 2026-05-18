@@ -1,0 +1,1 @@
+cat /home/workdir/artifacts/FORGE-PWA/sw.js
