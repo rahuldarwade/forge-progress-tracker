@@ -1,12 +1,35 @@
 # 🔥 FORGE — Progress Tracker (PWA)
 
-Fully functional progress tracking app with 7 screens, streaks, calendar, journal, photo spotlight and monthly wraps.
+A beautiful, installable Progressive Web App to track your **physique**, **study sessions**, and **daily goals** with streaks, calendar, journal, and monthly review wraps.
 
-## How to use
-Open `index.html` in any browser.
+## ✨ Key Features
 
-## PWA Ready
-Installable on Android as a real app.
-Generate APK easily using PWABuilder.com
+- **Streak Tracking** — Build consistency with daily streaks
+- **Multi-domain Tracking** — Physique measurements, Study hours, Custom goals
+- **Calendar View** — Visual progress over time
+- **Journal** — Daily reflections and notes
+- **Photo Spotlight** — Progress photos
+- **Monthly Wraps** — Beautiful summaries of your month
+- **PWA** — Install on Android home screen like a native app
 
-Created as Iteration 1 of the progress tracking system.
+## 🛠️ Tech Stack
+
+- HTML + CSS + JavaScript
+- PWA: manifest.json + Service Worker (sw.js)
+- Local Storage for persistence
+
+## 🚀 Getting Started
+
+1. Clone or download the repo
+2. Open `index.html` in any modern browser
+3. (Optional) Generate APK using [PWABuilder](https://www.pwabuilder.com)
+
+## 📅 Roadmap / Iteration 1
+
+This is Iteration 1. Future versions may include:
+- Cloud sync
+- Better analytics & charts
+- Social features / challenges
+- Dark mode refinements
+
+Built with care for real daily use. Feedback welcome!
